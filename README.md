@@ -52,7 +52,7 @@ cd cpu-scheduling-algorithms
 Run the program:
 
 ```bash
-python cpu_scheduling.py
+python CPU_Scheduling_Algorithims.py
 ```
 
 The program will prompt you to enter the number of processes, their burst times, whether they have arrival times, and the Round Robin quantum.
